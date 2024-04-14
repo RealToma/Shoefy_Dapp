@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+  width: 1920px;
+  height: 1024px;
+  background-image: url("../src/images/background.png");
 }
 
 .App-logo {
